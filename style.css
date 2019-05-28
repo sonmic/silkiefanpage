@@ -1,0 +1,58 @@
+body {
+    background: #faf3e6;
+}
+
+header {
+    width: 600px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+
+#wrapper {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #E4E4E2 border:
+}
+
+h1 {
+    color: #c9904d;
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+    color: #6f4d37;
+}
+
+.content {
+    font-family: SourceSansPro, Arial, Helvetica, sans-serif;
+    color: #4c3322;
+}
+
+.imglogo {
+    float: right;
+}
+
+p {
+    color: #4c3322;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* unvisited link */
+
+a:link {
+    color: #6f4d37;
+}
+
+
+/* visited link */
+
+a:visited {
+    color: #6f4d37;
+}
